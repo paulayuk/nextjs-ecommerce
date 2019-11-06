@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/_app.js.016db739c392e3c3d975.hot-update.js","sources":["webpack:///./components/cartcontext.js"],"sourcesContent":["import { createContext } from 'react';\n\nconst CartContext = createContext();\n\nexport default CartContext;\n"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAEA;AAEA;;;;A","sourceRoot":""}
